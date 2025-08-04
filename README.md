@@ -44,8 +44,8 @@ Abaixo estão alguns exemplos de análises realizadas:
 
 - **Gráficos:**
   - Barras comparando faturamento total entre as lojas
-  - Boxplot do frete médio por loja
-  - Gráfico de barras das categorias mais e menos vendidas
+  - Torta da distribuição de produtos por categoria
+  - Barras das categorias mais e menos vendidas
 
 **Insight principal:**  
 A **Loja 4** apresentou o **menor faturamento**, menor rotatividade de categorias, produtos menos vendidos e avaliação média inferior a outras unidades. **Foi recomendada para fechamento.**
