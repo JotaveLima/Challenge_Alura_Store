@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo analisar o desempenho de quatro lojas da rede **Alura Store** a fim de identificar **qual unidade apresenta os piores resultados operacionais e financeiros** e, portanto, **deve ser considerada para fechamento estratégico**.
 
-A análise foi baseada em dados reais de vendas e considerou os seguintes critérios:
+A análise foi baseada em dados fictícios de vendas e considerou os seguintes critérios:
 
 - Faturamento total da loja  
 - Categorias mais e menos vendidas  
